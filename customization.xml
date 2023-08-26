@@ -1,0 +1,51 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenInBrowserGroup" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="View" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RecentProjectListGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Recent" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <path value="FileTemplateSeparatorGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RecentProjectListGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Recent" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenInBrowserGroup" is_group="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="View" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
